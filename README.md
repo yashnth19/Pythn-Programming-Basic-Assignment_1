@@ -1,1 +1,1 @@
-# Pythn-Programming-Basic-Assignment_1
+# Pythn-Programming-Basic-Assignment
